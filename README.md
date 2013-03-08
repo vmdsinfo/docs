@@ -1,1 +1,1 @@
-This reame is a place holder meantime.
+This readme is a place holder meantime.
